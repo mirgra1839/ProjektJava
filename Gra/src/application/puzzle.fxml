@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="243.0" prefWidth="338.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Controller">
+   <children>
+      <Button fx:id="check" layoutX="28.0" layoutY="59.0" mnemonicParsing="false" onAction="#Checking" prefHeight="126.0" prefWidth="1002.0" text="Sprawdź wynik w terminalu/ Check the solution in terminal/Überprüfen Sie die Lösung im Terminal/ controleer de oplossing in de terminal" textFill="#3900ff">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
